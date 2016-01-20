@@ -1,3 +1,2 @@
-# Tutorial
+this is my first study of github~!
 
-This is my tutorial repository.
